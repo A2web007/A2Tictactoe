@@ -41,7 +41,7 @@ font-size: 50px;
 }
 
 body{
-  background:url(../tictactoe.jpg);
+  background:url(tictactoe.jpg);
   
 }
 .select-box, .play-board, .result-box{
